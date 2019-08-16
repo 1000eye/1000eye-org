@@ -1,37 +1,27 @@
-## 👁️Welcome to 1000eye Project👁️
+# 👁️ About 1000eye
 
-You can use the [editor on GitHub](https://github.com/1000eye/1000eye-org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 作品介绍
 
-### Markdown
+* **1000eye** 是一个基于以太坊区块链的加密艺术品。作品选择了一千位21世纪代表人物的眼睛，每只眼睛图像都采用油画的方式绘制。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **EYE**是 **1000eye** 的Token符号，全球总计发行一千枚，它们符合以太坊 **[ERC721](https://eips.ethereum.org/EIPS/eip-721)** 标准，每一枚Token对应作品中的一只眼睛。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### INTRODUCTION
 
-[Link](url) and ![Image](src)
-```
+* **1000eye** is an crypto artwork based on the Ethereum blockchain. The artwork selects the eyes of a thousand representative figures of the 21st century, and each eye is drawn by oil painting.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* **EYE** is the token symbol of **1000eye** , which will be issued for one thousand items in total. They conform to the Ethereum **[ERC721](https://eips.ethereum.org/EIPS/eip-721)** standard, and each token corresponds to one eye in the artwork.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1000eye/1000eye-org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 联系作者 / Contact Me
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/crypto1000eye)
+[Reddit](https://www.reddit.com/r/1000eye/)
+Email: 1000eye@protonmail.com
+微信/Wechat
+![](https://i.imgur.com/S276lEf.jpg)
