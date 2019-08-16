@@ -20,8 +20,8 @@
 
 ### 联系作者 / Contact Me
 
-[Twitter](https://twitter.com/crypto1000eye)
-[Reddit](https://www.reddit.com/r/1000eye/)
-Email: 1000eye@protonmail.com
-微信/Wechat
+* [Twitter](https://twitter.com/crypto1000eye)
+* [Reddit](https://www.reddit.com/r/1000eye/)
+* Email: 1000eye@protonmail.com
+* 微信/Wechat
 ![](https://i.imgur.com/S276lEf.jpg)
